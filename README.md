@@ -4,3 +4,5 @@
 ## Deployment
 ## how to contribute
 
+### Copyright
+2014
