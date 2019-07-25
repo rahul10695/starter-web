@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rahul Dev Gupta rahul@gmail.com
 
 # THANKS
 
